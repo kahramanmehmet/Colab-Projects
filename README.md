@@ -1,5 +1,5 @@
 # ME
-It's all 'bout myself and my Colab Studies!
+It's all 'bout myself and my Google-Colab studies!
 
 - ## 👋 Hi, I’m mehmet kahraman
 - ## 👀 I’m interested in physics, astronomy, data science, SQL, Python, TM1, PowerBI, Tableau
