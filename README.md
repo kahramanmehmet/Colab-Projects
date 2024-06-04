@@ -1,10 +1,10 @@
 # ME
 It's all 'bout myself and my Google-Colab studies!
 
-- ## 👋 Hi, I’m mehmet kahraman
-- ## 👀 I’m interested in physics, astronomy, data science, SQL, Python, TM1, PowerBI, Tableau
-- ## 🌱 I’m currently learning on Patika.dev
-- ## 💞️ I’m looking to collaborate on data science projects
+- ## 👋 Hi, Stardust! I’m mehmet kahraman,
+- ## 👀 interested in physics, astronomy, data science, SQL, Python, TM1, PowerBI, Tableau;
+- ## 🌱 currently learning on Patika.dev;
+- ## 💞️ looking to collaborate on data science projects.
 - ## 📫 How to reach me...
    - ### github: https://www.github.com/kahramanmehmet
    - ### linkedin: https://www.linkedin.com/in/kahramanmehmet
