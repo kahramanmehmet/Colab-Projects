@@ -14,6 +14,6 @@ It's all 'bout myself and my Google-Colab studies!
    - ### web: http://www.uzakyolculuk.com
 
 <!---
-mehmetkahraman/ME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kahramanmehmet/Colab-Projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
